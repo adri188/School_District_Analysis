@@ -10,7 +10,7 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ### How is the district summary affected?
 
-District  Summary is not significantly affected by removing the 9th graders results.By removing the 467 students on 9th grade , the effect is a very slight reduction on scores, barely affecting the overall passing from 65% to 64.9%
+District  Summary is not significantly affected by removing the 9th graders results.By removing the 467 students on 9th grade , the effect is a very slight reduction on scores, that can only be seen with 1 or more  significant digits, affecting the overall passing % from 65.2% to 64.9%. 
 
 * Initial Analysis
 ![Summary1](Resources/Summary1.png)
@@ -20,7 +20,7 @@ District  Summary is not significantly affected by removing the 9th graders resu
 
 ### How is the school summary affected?
 
-THS scores are slightly different, lower compared to the initial analysis. 
+THS scores are slightly different, average reading score is slightly higher on updated Analysis and all other metrics are about 0.015-0.03 lower than original. 
 
 * Initial Analysis
 
@@ -49,39 +49,48 @@ Thomas High School is still  on same rank based on overall passing %, even thoug
 There is no effect to scores on other grades and high schools, only difference is now 9th grade for THS is blank. 
 
 
-
 #### Math Scores 
+
 * Initial Analysis
+
 ![mathscores1](Resources/mathscores1.png)
 
 * Updated Analysis
+
 ![mathscores2](Resources/mathscores2.png)
 
 #### Reading Scores
 
 * Initial Analysis
+
 ![readscores1](Resources/readscores1.png)
 
 * Updated Analysis
+
 ![readscores2](Resources/readscores2.png)
 
 
 ### Scores by school spending:
 
 
+
 * Initial Analysis 
+
 ![SpendingRanges1](Resources/SpendingRanges1.png)
 
 * Updated Analysis
+
 ![SpendingRanges2](Resources/SpendingRanges2.png)
 
 ### Scores by school size
 
 
 * Initial Analysis
+
 ![SchoolSize1](Resources/SchoolSize1.png)
 
 * Updated Analysis
+
 ![SchoolSize2](Resources/SchoolSize2.png)
 
 
