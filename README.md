@@ -72,6 +72,7 @@ There is no effect to scores on other grades and high schools, only difference i
 
 ### Scores by school spending:
 
+There is virtually no change on the results grouped by spending. Slight reduction of  ~0.01 on % overall passing and % reading, on 631-645 Spending Range 
 
 
 * Initial Analysis 
@@ -84,6 +85,7 @@ There is no effect to scores on other grades and high schools, only difference i
 
 ### Scores by school size
 
+There is virtually no change on the results grouped by size. 
 
 * Initial Analysis
 
@@ -96,31 +98,25 @@ There is no effect to scores on other grades and high schools, only difference i
 
 ### Scores by school type
 
+There is virtually no change on the results grouped by Type. 
 
 * Initial Analysis
+
 ![SchoolType1](Resources/SchoolType1.png)
 
 * Updated Analysis
+
 ![SchoolType2](Resources/SchoolType2.png)
 
 
 ## Summary:
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs,  here are some of the slight changes:
 
-* % Overall Passing Students at THS is 0.03% lower than initial analysis
-*  
+* District % Overall Passing Result is 64.9% compared to 65.2%. 
+* THS % Overall Passing is ~0.03% lower than initial result, but still leaves them in same rank, being number  2 in the district. 
+* THS Scores are affected.  Avg Reading Score is slightly higher, from 83.85% to 83.90% and the rest of metrics decreased about 0.015 to 0.03 compared to original result. 
+* Slight reduction ~0.01 on % overall passing and % reading on spending range per student  of 631-645
 
 
 
-
-
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
